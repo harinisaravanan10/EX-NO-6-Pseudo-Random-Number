@@ -25,7 +25,8 @@ int main()
 }
 ```
 # OUTPUT:
-![Uploading Screenshot 2025-04-07 083541.png…]()
+![Screenshot 2025-04-07 083541](https://github.com/user-attachments/assets/1dbf4e8c-0688-4bbb-9831-f633dc354b76)
+
 
 # RESULT:
 Thus the code is executed successfully.
